@@ -1,0 +1,8 @@
+id,name
+1,Jane Hopper ( Eleven )
+2,Ororo Munroe ( Ororo )
+3,Bruce Banner ( Hulk )
+#id,name,hero
+#1,Jane Hopper ( Eleven ),
+#2,Ororo Munroe ( Ororo ),
+#3,Bruce Banner,Hulk
